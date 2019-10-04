@@ -1,0 +1,16 @@
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\bin\Debug\Factorialsum.Test.dll
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\bin\Debug\Factorialsum.Test.pdb
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\bin\Debug\Factorialsum.dll
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\bin\Debug\Factorialsum.pdb
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\obj\Debug\Factorialsum.Test.csprojAssemblyReference.cache
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\obj\Debug\Factorialsum.Test.csproj.CoreCompileInputs.cache
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\obj\Debug\Factorialsum.Test.csproj.CopyComplete
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\obj\Debug\Factorialsum.Test.dll
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum.Test\obj\Debug\Factorialsum.Test.pdb

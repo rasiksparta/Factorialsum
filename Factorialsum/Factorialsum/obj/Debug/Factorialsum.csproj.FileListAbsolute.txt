@@ -1,0 +1,6 @@
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum\bin\Debug\Factorialsum.dll
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum\bin\Debug\Factorialsum.pdb
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum\obj\Debug\Factorialsum.csprojAssemblyReference.cache
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum\obj\Debug\Factorialsum.csproj.CoreCompileInputs.cache
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum\obj\Debug\Factorialsum.dll
+C:\Users\Rasik Rana\Desktop\csharp\week8\wednesday\Factorialsum\Factorialsum\Factorialsum\obj\Debug\Factorialsum.pdb

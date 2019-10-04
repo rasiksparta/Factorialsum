@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorialsum.Test", "Factorialsum.Test.csproj", "{8DD369E8-F4F7-4DC8-9B61-BADB95E7FF15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorialsum", "..\Factorialsum\Factorialsum.csproj", "{3B455D98-B1C4-4A8D-8E10-FAABC6AEBDD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DD369E8-F4F7-4DC8-9B61-BADB95E7FF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD369E8-F4F7-4DC8-9B61-BADB95E7FF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD369E8-F4F7-4DC8-9B61-BADB95E7FF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD369E8-F4F7-4DC8-9B61-BADB95E7FF15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B455D98-B1C4-4A8D-8E10-FAABC6AEBDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B455D98-B1C4-4A8D-8E10-FAABC6AEBDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B455D98-B1C4-4A8D-8E10-FAABC6AEBDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B455D98-B1C4-4A8D-8E10-FAABC6AEBDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21B4716C-1244-4691-A5DF-B3D136E0E091}
+	EndGlobalSection
+EndGlobal
